@@ -1,4 +1,4 @@
-MIT License My comments
+MIT License My
 
 Copyright (c) 2017-2022 JDH Information Technology Solutions, Inc.
 
