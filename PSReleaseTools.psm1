@@ -4,7 +4,7 @@ ForEach-Object {
     . $_.fullname
 }
 
-#configure TLS settings for GitHub
+#configure TLSs settings for GitHub
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
 
 #cache issue labels
